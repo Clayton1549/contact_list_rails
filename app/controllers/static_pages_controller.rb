@@ -2,7 +2,7 @@ class StaticPagesController < ApplicationController
 
 def index
 
-    @nome   =  "Clayton"
+    @nome   =  "Clayton  Pereira  de   Oliveira "
 
 
  end
